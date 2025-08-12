@@ -1,18 +1,11 @@
-# Hi there 👋, Welcome!
 # 💫 About Me:
-## Hello! 👋My name is P.Yojith Sai. I am from GITAM University and pursuing B.Tech CSE - Artificial Intelligence and Machine Learning🤖.
-## I am an AI/ML enthusiast passionate about exploring new technologies and solving real-world problems through innovative projects.
-<!--
-**Yojith2004/Yojith2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 👋My name is P.Yojith Sai. I am from GITAM University and pursuing B.Tech CSE - Artificial Intelligence and Machine Learning🤖.
+### I am an AI/ML enthusiast passionate about exploring new technologies and solving real-world problems through innovative projects.
+### 🔗 Socials
 
-Here are some ideas to get you started:
+<table>
+	<td><a href="https://www.linkedin.com/in/pavuluriyojithsai"><img height=40 src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a></td>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Certifications 
+[![Foundations](./github-foundations.png)](https://www.credly.com/go/wzhRIzAD)
