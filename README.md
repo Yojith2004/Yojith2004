@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hello! 👋My name is P.Yojith Sai. I am from GITAM University and pursuing B.Tech CSE - Artificial Intelligence and Machine Learning🤖.
+### Hello! 👋My name is P.Yojith Sai. I am pursuing B.Tech CSE - Artificial Intelligence and Machine Learning🤖 at GITAM University.
 ### I am an AI/ML enthusiast passionate about exploring new technologies and solving real-world problems through innovative projects.
 ### 🔗 Socials
 
